@@ -10,5 +10,5 @@ console.log(greeter.next().value);
 console.log(greeter.next("the heck").value);
 // console.log(greeter.next().value);
 
-// value passed in next() parameter is being returned in yield when the next() is run
+// value passed in next() parameter is being returned in yield when the next next() is run
 // and assigned to variable friendly
